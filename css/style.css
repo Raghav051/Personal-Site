@@ -27,14 +27,16 @@
        right: 30px;
        top: 250px;
      }
-
-     .third {
-       position: relative;
-       bottom: 0;
-       left: 330px;
-       margin-bottom: 0;
+      
+    .third {
+      width :100%;
+      bottom: 0;
+      left: auto;
+      right: auto;
+      margin-bottom: 0;
+      display: inline-block;
      }
-
+    
      .top-container {
        background-color: #E4F9F5;
        align-content: center;
